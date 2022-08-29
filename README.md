@@ -31,6 +31,6 @@ follow us on facebook: https://www.facebook.com/Bisu-Language-App-86656229687805
 
 
 
-Link to the app? Here: http://tiny.cc/rgvzvy
+Link to the app? Here: http://tiny.cc/rgvzvy or www.pisonpeak.com.ng
 A more recent version loading.............
 >>>>>>> 1cbeee026ef3c38e4c30d896de5770502e28dbf1
