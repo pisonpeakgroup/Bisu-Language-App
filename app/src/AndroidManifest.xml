@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.example.android.bisuapp">
+	<uses-sdk android:minSdkVersion="15" android:targetSdkVersion="27" />
+	<application android:theme="resourceId:0x7f0e0005" android:label="Bisu Language App" android:icon="res/mipmap-xxxhdpi-v4/ic_launcher.png" android:allowBackup="true" android:supportsRtl="true" android:roundIcon="res/mipmap-xxxhdpi-v4/ic_launcher_round.png">
+		<activity android:name="com.example.android.bisuapp.MainActivity">
+			<intent-filter>
+				<action android:name="android.intent.action.MAIN" />
+				<category android:name="android.intent.category.LAUNCHER" />
+			</intent-filter>
+		</activity>
+		<activity android:name="com.example.android.bisuapp.ColorsActivity" />
+		<activity android:name="com.example.android.bisuapp.FamilyActivity" />
+		<activity android:name="com.example.android.bisuapp.NumbersActivity" />
+		<activity android:name="com.example.android.bisuapp.PhrasesActivity" />
+		<activity android:name="com.example.android.bisuapp.AboutActivity" />
+		<activity android:name="com.example.android.bisuapp.QuizActivity" />
+		<activity android:name="com.example.android.bisuapp.QuickCatchActivity" />
+	</application>
+</manifest>
